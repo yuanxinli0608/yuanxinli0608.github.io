@@ -1,0 +1,23 @@
+body{-webkit-animation:colorchange 30s infinite;
+     animation: colorchange 30s infinite;}
+@-webkit-keyframes colorchange{
+      25% {background-color: #ffffff;}
+      50% {background-color: #ffe6e9;}
+      75% {background-color: #ffccd4;}
+      100% {background-color: #ffb6c1;}
+    }
+a{
+  background-color: #f5e6ff;
+  color: #9900ff;
+}
+#subtitle{
+  color: #787878;
+  background-color: #ffb6c1;
+}
+h4{
+  color: #888888;
+  background-color: #ffe6e9;
+}
+body{
+  color: #606060;
+}
